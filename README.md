@@ -11,6 +11,11 @@ What you can do in the game:
 - maintain record table
 - check fact sheet
 
+Control:
+- 1 Player: →,←,↑,↓ - movement, NUM0 - shoot
+- 2 Player: w,a,s,d - movement, SPACE - shoot
+- Menu: ↑,↓ - movement, ENTER - act
+
 # How to setup and run the project
 It requires Visual Studio with installed .NET desktop development workload.
 
