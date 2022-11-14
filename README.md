@@ -6,6 +6,7 @@ This is a Windows desktop app which was inspired by old 8-bit game "Battle City"
 
 What you can do in the game:
 - play alone or with friend (1, 2 players support)
+- play on one game level
 - choose difficulty (easy, hard, reality)
 - maintain record table
 - check fact sheet
